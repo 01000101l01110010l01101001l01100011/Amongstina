@@ -37,7 +37,7 @@ dictionary = {
     "Ú": "U",
     "Ů": "U",
     "Ý": "Y",
-    "Ž": "Z",
+    "Ž": "S",
 }
 for letter in slovo:
     if letter in dictionary:
