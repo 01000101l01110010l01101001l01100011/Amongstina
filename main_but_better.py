@@ -12,7 +12,7 @@ AMOGUS_SIZE = 64
 ACCESORY_HEIGHT = 16
 ACCESORY_WIDTH = 64
 
-slovo = input("Zadejte slovo k přeložení: ")
+slovo = input("Zadejte vzkaz k přeložení: ")
 slovo = slovo.upper()
 
 if "X" in slovo:
