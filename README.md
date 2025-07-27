@@ -9,7 +9,7 @@ Amongština je jazyk a má i svoje písmo. Toto je překladač, který přepíš
   git clone https://github.com/01000101l01110010l01101001l01100011/Amongstina
   ```
 2. Dependencies:
-- [Pillow (PIL)](https://python-pillow.org/)
+- [Pillow (PIL)](https://pypi.org/project/pillow/)
 ```bash
 pip install pillow
 ```
